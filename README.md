@@ -8,3 +8,5 @@ A data engineering/analytics project to learn to scrape (Extract), pre-process (
 - Access data from the cloud to perform EDA and train machine learning algorithms with Apache Spark 
 - Access data from dashboard interface (e.g. Tableau, streamlit) using SQL queries
 - Separately, consider doing this all using orchestration technologies such as Airflow or Snowflake
+
+## Webscraping with BeautifulSoup
